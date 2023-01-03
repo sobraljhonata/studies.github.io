@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/studies.github.io/static/css/main.69e5d6da.chunk.css",
-    "main.js": "/studies.github.io/static/js/main.35935e20.chunk.js",
-    "main.js.map": "/studies.github.io/static/js/main.35935e20.chunk.js.map",
+    "main.js": "/studies.github.io/static/js/main.fd564fc5.chunk.js",
+    "main.js.map": "/studies.github.io/static/js/main.fd564fc5.chunk.js.map",
     "runtime-main.js": "/studies.github.io/static/js/runtime-main.d4b34452.js",
     "runtime-main.js.map": "/studies.github.io/static/js/runtime-main.d4b34452.js.map",
-    "static/js/2.205402b8.chunk.js": "/studies.github.io/static/js/2.205402b8.chunk.js",
-    "static/js/2.205402b8.chunk.js.map": "/studies.github.io/static/js/2.205402b8.chunk.js.map",
+    "static/js/2.c7922e85.chunk.js": "/studies.github.io/static/js/2.c7922e85.chunk.js",
+    "static/js/2.c7922e85.chunk.js.map": "/studies.github.io/static/js/2.c7922e85.chunk.js.map",
     "index.html": "/studies.github.io/index.html",
     "static/css/main.69e5d6da.chunk.css.map": "/studies.github.io/static/css/main.69e5d6da.chunk.css.map",
-    "static/js/2.205402b8.chunk.js.LICENSE.txt": "/studies.github.io/static/js/2.205402b8.chunk.js.LICENSE.txt",
+    "static/js/2.c7922e85.chunk.js.LICENSE.txt": "/studies.github.io/static/js/2.c7922e85.chunk.js.LICENSE.txt",
     "static/media/Item.module.scss": "/studies.github.io/static/media/check-mark.138356fc.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.d4b34452.js",
-    "static/js/2.205402b8.chunk.js",
+    "static/js/2.c7922e85.chunk.js",
     "static/css/main.69e5d6da.chunk.css",
-    "static/js/main.35935e20.chunk.js"
+    "static/js/main.fd564fc5.chunk.js"
   ]
 }
